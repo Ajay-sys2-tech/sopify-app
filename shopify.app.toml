@@ -3,7 +3,7 @@
 client_id = "79ab71cfb3b44b2246570d49682e6779"
 name = "sopfy-app"
 handle = "sopfy-app"
-application_url = "https://sold-jobs-quiz-meanwhile.trycloudflare.com"
+application_url = "https://met-brings-buttons-pattern.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://sold-jobs-quiz-meanwhile.trycloudflare.com/auth/callback",
-  "https://sold-jobs-quiz-meanwhile.trycloudflare.com/auth/shopify/callback",
-  "https://sold-jobs-quiz-meanwhile.trycloudflare.com/api/auth/callback"
+  "https://met-brings-buttons-pattern.trycloudflare.com/auth/callback",
+  "https://met-brings-buttons-pattern.trycloudflare.com/auth/shopify/callback",
+  "https://met-brings-buttons-pattern.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
